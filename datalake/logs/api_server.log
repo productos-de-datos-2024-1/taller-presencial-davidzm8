@@ -1,0 +1,38 @@
+2024-04-06 07:55:26,639:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:55:26,639:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:55:26,644:INFO: * Restarting with stat
+2024-04-06 07:55:28,227:WARNING: * Debugger is active!
+2024-04-06 07:55:28,238:INFO: * Debugger PIN: 761-767-275
+2024-04-06 08:05:26,882:INFO:127.0.0.1 - - [06/Apr/2024 08:05:26] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:08:21,888:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:08:30,644:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:08:30,646:INFO:127.0.0.1 - - [06/Apr/2024 08:08:30] "POST / HTTP/1.1" 200 -
+2024-04-06 08:20:24,261:INFO: * Detected change in 'C:\\Users\\USER\\Documents\\GitHub\\taller-presencial-davidzm8\\src\\6a_api_server\\client_example.py', reloading
+2024-04-06 08:20:24,865:INFO: * Restarting with stat
+2024-04-06 08:20:27,878:WARNING: * Debugger is active!
+2024-04-06 08:20:27,887:INFO: * Debugger PIN: 761-767-275
+2024-04-06 08:20:51,459:INFO: * Detected change in 'C:\\Users\\USER\\Documents\\GitHub\\taller-presencial-davidzm8\\src\\6a_api_server\\client_example.py', reloading
+2024-04-06 08:20:51,656:INFO: * Restarting with stat
+2024-04-06 08:20:53,895:WARNING: * Debugger is active!
+2024-04-06 08:20:53,906:INFO: * Debugger PIN: 761-767-275
+2024-04-06 08:22:47,328:INFO: * Detected change in 'C:\\Users\\USER\\Documents\\GitHub\\taller-presencial-davidzm8\\src\\6a_api_server\\client_example.py', reloading
+2024-04-06 08:22:47,574:INFO: * Restarting with stat
+2024-04-06 08:22:49,962:WARNING: * Debugger is active!
+2024-04-06 08:22:49,962:INFO: * Debugger PIN: 761-767-275
+2024-04-06 08:25:04,475:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:25:04,475:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:25:04,475:INFO: * Restarting with stat
+2024-04-06 08:25:05,967:WARNING: * Debugger is active!
+2024-04-06 08:25:05,967:INFO: * Debugger PIN: 761-767-275
+2024-04-06 08:26:55,634:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:26:57,398:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:26:57,400:INFO:127.0.0.1 - - [06/Apr/2024 08:26:57] "POST / HTTP/1.1" 200 -
+2024-04-06 08:30:42,996:INFO: * Detected change in 'C:\\Users\\USER\\Documents\\GitHub\\taller-presencial-davidzm8\\src\\6a_api_server\\client_example.py', reloading
+2024-04-06 08:30:43,278:INFO: * Restarting with stat
+2024-04-06 08:30:44,853:WARNING: * Debugger is active!
+2024-04-06 08:30:44,857:INFO: * Debugger PIN: 761-767-275
+2024-04-06 09:20:36,526:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:20:39,479:INFO:Prediction: [155849.90294016]
+2024-04-06 09:20:39,481:INFO:127.0.0.1 - - [06/Apr/2024 09:20:39] "POST / HTTP/1.1" 200 -

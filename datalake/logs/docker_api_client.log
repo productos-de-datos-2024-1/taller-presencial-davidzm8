@@ -1,0 +1,50 @@
+2024-04-06 16:36:29,455:INFO:Starting the application
+2024-04-06 16:36:29,495:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+2024-04-06 16:36:29,496:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 16:36:29,500:INFO: * Restarting with stat
+2024-04-06 16:36:30,027:INFO:Starting the application
+2024-04-06 16:36:30,033:WARNING: * Debugger is active!
+2024-04-06 16:36:30,039:INFO: * Debugger PIN: 301-053-255
+2024-04-06 16:39:42,069:INFO:172.18.0.1 - - [06/Apr/2024 16:39:42] "GET / HTTP/1.1" 200 -
+2024-04-06 16:40:38,386:INFO:----------------------------------------
+2024-04-06 16:40:38,387:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 16:40:43,758:INFO:172.18.0.1 - - [06/Apr/2024 16:40:43] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 16:40:43,910:INFO:172.18.0.1 - - [06/Apr/2024 16:40:43] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-06 16:40:43,911:INFO:172.18.0.1 - - [06/Apr/2024 16:40:43] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-04-06 16:40:44,031:INFO:172.18.0.1 - - [06/Apr/2024 16:40:44] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-06 16:40:44,144:INFO:172.18.0.1 - - [06/Apr/2024 16:40:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 16:40:49,236:INFO:----------------------------------------
+2024-04-06 16:40:49,237:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 16:40:49,277:INFO:Prediction: 155849.9
+2024-04-06 16:40:49,279:INFO:172.18.0.1 - - [06/Apr/2024 16:40:49] "POST / HTTP/1.1" 200 -
+2024-04-06 16:40:53,172:INFO:----------------------------------------
+2024-04-06 16:40:53,174:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 16:40:53,205:INFO:Prediction: 155849.9
+2024-04-06 16:40:53,206:INFO:172.18.0.1 - - [06/Apr/2024 16:40:53] "POST / HTTP/1.1" 200 -
+2024-04-06 16:41:05,009:INFO:172.18.0.1 - - [06/Apr/2024 16:41:05] "GET / HTTP/1.1" 200 -
+2024-04-06 16:41:08,545:INFO:----------------------------------------
+2024-04-06 16:41:08,546:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 16:41:08,575:INFO:Prediction: 155849.9
+2024-04-06 16:41:08,577:INFO:172.18.0.1 - - [06/Apr/2024 16:41:08] "POST / HTTP/1.1" 200 -
+2024-04-06 16:44:40,033:INFO:Finishing the application
+2024-04-06 16:44:40,623:INFO:Finishing the application
+2024-04-06 16:45:50,518:INFO:Starting the application
+2024-04-06 16:45:50,551:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+2024-04-06 16:45:50,551:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 16:45:50,554:INFO: * Restarting with stat
+2024-04-06 16:45:51,293:INFO:Starting the application
+2024-04-06 16:45:51,304:WARNING: * Debugger is active!
+2024-04-06 16:45:51,307:INFO: * Debugger PIN: 702-884-680
+2024-04-06 16:46:20,293:INFO:172.18.0.1 - - [06/Apr/2024 16:46:20] "GET / HTTP/1.1" 200 -
+2024-04-06 16:46:24,797:INFO:----------------------------------------
+2024-04-06 16:46:24,798:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 16:46:24,988:INFO:Prediction: 155849.9
+2024-04-06 16:46:24,990:INFO:172.18.0.1 - - [06/Apr/2024 16:46:24] "POST / HTTP/1.1" 200 -
+2024-04-06 16:59:11,273:INFO:Finishing the application
+2024-04-06 16:59:11,565:INFO:Finishing the application

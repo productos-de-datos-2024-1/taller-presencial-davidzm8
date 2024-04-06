@@ -1,0 +1,25 @@
+2024-04-06 09:15:59,765:INFO:Starting the application
+2024-04-06 09:15:59,796:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:15:59,796:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:15:59,799:INFO: * Restarting with stat
+2024-04-06 09:16:00,511:INFO:Starting the application
+2024-04-06 09:16:00,524:WARNING: * Debugger is active!
+2024-04-06 09:16:00,529:INFO: * Debugger PIN: 761-767-275
+2024-04-06 09:16:10,819:INFO:Starting the application
+2024-04-06 09:16:10,908:INFO:Starting the application
+2024-04-06 09:20:23,538:INFO:Starting the application
+2024-04-06 09:20:23,573:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:20:23,573:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:20:23,576:INFO: * Restarting with stat
+2024-04-06 09:20:24,559:INFO:Starting the application
+2024-04-06 09:20:24,570:WARNING: * Debugger is active!
+2024-04-06 09:20:24,576:INFO: * Debugger PIN: 761-767-275
+2024-04-06 09:20:31,191:INFO:127.0.0.1 - - [06/Apr/2024 09:20:31] "GET / HTTP/1.1" 200 -
+2024-04-06 09:20:31,359:INFO:127.0.0.1 - - [06/Apr/2024 09:20:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 09:20:36,364:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 09:20:39,484:INFO:Prediction: 155849.9
+2024-04-06 09:20:39,485:INFO:127.0.0.1 - - [06/Apr/2024 09:20:39] "POST / HTTP/1.1" 200 -
+2024-04-06 09:36:44,541:INFO:Starting the application
+2024-04-06 09:36:44,636:INFO:Starting the application
